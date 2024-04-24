@@ -1,2 +1,2 @@
 # joysaha
-fully responsive website with html, css &amp; bootstrap
+fully responsive website with html, css bootstrap
